@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jones Azarya T</h1>
 <h3 align="center">Undergraduate student from Information system at Hasanuddin University</h3>
-<img align="right" alt="Coding" width="500" src="https://i2.wp.com/cdn-images-1.medium.com/max/1600/1*5fIUIzQrNVPBzeQZiLM27w.gif">
+<img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWlrbW1ka2FrcTFoa2lsbnkxcGlvNWxqc3IyaTc3bWdhYWsyYTl6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jons1104&label=Profile%20views&color=0e75b6&style=flat" alt="jons1104" /> </p>
 
